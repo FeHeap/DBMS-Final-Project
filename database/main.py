@@ -235,6 +235,7 @@ def voice():
     f = open("voice/voice.txt", "r", encoding="utf-8")
     # get the content in voice/voice.txt
     content = f.readlines()
+    content.reverse()
 
     # process datas in content
     for datas in content:

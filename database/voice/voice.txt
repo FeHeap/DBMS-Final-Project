@@ -2440,7 +2440,6 @@ SOUNGDOK,男,I'm Enterprise
 橋本雅史,男,Production Ace
 橋本祐樹,男,Stay Luck
 橋詰知久,男,青二事務所
-青木強,男,Aksent
 清水健佑,男,青二事務所
 秋穀啟鬥,男,株式會社S
 秋葉佑,男,I'm Enterprise
